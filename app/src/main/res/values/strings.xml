@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">recycleselect_delete</string>
+
+    <string-array name="image_name">
+        <item>
+            1st image
+        </item>
+        <item>2nd image</item>
+        <item>3rd image</item>
+        <item>4th image</item>
+        <item>5th image</item>
+        <item>6th image</item>
+        <item>7th image</item>
+
+
+    </string-array>
+</resources>
